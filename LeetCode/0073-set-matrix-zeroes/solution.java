@@ -18,7 +18,7 @@ class Solution {
             }
             i++; 
         }
-
+        
         int row = 0;
         while (row < n) {
             int col = 0;
