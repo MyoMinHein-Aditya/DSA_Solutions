@@ -17,7 +17,6 @@ class Solution {
 
             result.add(row);
         }
-
         return result;
     }
 }
