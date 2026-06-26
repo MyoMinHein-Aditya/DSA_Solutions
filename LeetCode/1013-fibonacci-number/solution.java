@@ -1,11 +1,11 @@
 class Solution {
+
+    public int fiboo(int n){
+        if(n==1 || n==0) return n;
+        return fiboo(n-1)+fiboo(n-2);
+    }
+
     public int fib(int n) {
-        int sum=0,a=0,b=1;
-        for(int i=0; i<n;i++){
-            sum=a+b;
-            b=a;
-            a=sum;
-        }
-        return a;
+        return fiboo(n);
     }
 }
