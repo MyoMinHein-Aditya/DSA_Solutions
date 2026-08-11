@@ -1,26 +1,26 @@
 public class Solution {
     public int shipWithinDays(int[] weights, int D) {
-        int left = 0, right = 0;
+        int low = 0, high = 0;
         for (int w : weights) {
-            left = Math.max(left, w);
-            right += w;
+            low = Math.max(low, w);
+            high += w;
         }
-        while (left < right) {
-            int mid = left + (right - left) / 2;
-            int days = 1, currentLoad = 0;
+        while (low < high) {
+            int mid = low + (high - low) / 2;
+            int days = 1, capi = 0;
             for (int w : weights) {
-                if (currentLoad + w > mid) {
+                if (capi + w > mid) {
                     days++;
-                    currentLoad = 0;
+                    capi = 0;
                 }
-                currentLoad += w;
+                capi += w;
             }
             if (days > D) {
-                left = mid + 1;
+                low = mid + 1;
             } else {
-                right = mid;
+                high = mid;
             }
         }
-        return left;
+        return low;
     }
 }
