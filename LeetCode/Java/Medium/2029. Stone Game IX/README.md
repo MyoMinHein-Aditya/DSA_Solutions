@@ -8,7 +8,7 @@
 Array, Math, Greedy, Minimax, Counting, Game Theory, Nim Game, Zero-Sum Game
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
