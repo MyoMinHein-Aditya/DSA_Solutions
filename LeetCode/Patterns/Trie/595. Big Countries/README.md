@@ -1,6 +1,6 @@
 # 📝 595. Big Countries (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/big-countries/?envType=study-plan-v2&envId=top-sql-50)
+🔗 [Problem Link](https://leetcode.com/problems/big-countries/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-SQL-blue)
 
@@ -8,8 +8,8 @@
 Database
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 299 ms
+- **Memory:** 0B
 
 ---
 
