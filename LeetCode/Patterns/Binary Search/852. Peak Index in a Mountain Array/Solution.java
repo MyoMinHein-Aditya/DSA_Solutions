@@ -1,6 +1,6 @@
 class Solution {
     
-    public int peakIndex(int arr[], int left, int left){
+    public int peakIndex(int arr[], int left, int right){
         if(left >= right) return left;
         int mid = left + (right-left)/2;
         if(arr[mid] < arr[mid+1]){
@@ -13,6 +13,6 @@ class Solution {
     
     public int peakIndexInMountainArray(int[] arr) {
         int right = arr.length-1, left = 0;
-        return peakIndex(arr,right,left);
+        return peakIndex(arr,left, right);
     }
 }
