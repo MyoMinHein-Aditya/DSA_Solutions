@@ -1,7 +1,7 @@
 class Solution {
     
-    public int peakIndex(int arr[], int right, int left){
-        if(left == right) return left;
+    public int peakIndex(int arr[], int left, int left){
+        if(left >= right) return left;
         int mid = left + (right-left)/2;
         if(arr[mid] < arr[mid+1]){
             return peakIndex(arr,mid+1,right);
