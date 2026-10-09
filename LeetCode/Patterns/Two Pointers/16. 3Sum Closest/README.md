@@ -1,6 +1,6 @@
 # 📝 16. 3Sum Closest (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/3sum-closest/?envType=problem-list-v2&envId=sorting)
+🔗 [Problem Link](https://leetcode.com/problems/3sum-closest/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
