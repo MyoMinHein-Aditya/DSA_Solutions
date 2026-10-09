@@ -1,6 +1,6 @@
 # 📝 49. Group Anagrams (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/group-anagrams/?envType=problem-list-v2&envId=sorting)
+🔗 [Problem Link](https://leetcode.com/problems/group-anagrams/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Array, Hash Table, String, Sorting
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 20 ms
+- **Memory:** 50.3 MB
 
 ---
 
