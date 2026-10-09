@@ -1,6 +1,6 @@
 # 📝 49. Group Anagrams (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/group-anagrams/)
+🔗 [Problem Link](https://leetcode.com/problems/group-anagrams/?envType=problem-list-v2&envId=sorting)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
