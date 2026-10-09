@@ -8,7 +8,7 @@ class Solution {
             }
             StringBuilder sb = new StringBuilder();
             for (int k = 0; k < 26; k++) {
-                sb.append('#');
+                // sb.append('#');
                 sb.append(count[k]);
             }
             String key = sb.toString();
