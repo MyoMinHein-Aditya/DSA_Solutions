@@ -1,6 +1,6 @@
 # 📝 56. Merge Intervals (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/merge-intervals/?envType=problem-list-v2&envId=sorting)
+🔗 [Problem Link](https://leetcode.com/problems/merge-intervals/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
