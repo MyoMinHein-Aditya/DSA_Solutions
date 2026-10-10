@@ -8,8 +8,8 @@
 Array, Sorting, Bucket Sort, Radix Sort, Pigeonhole Principle
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 11 ms
+- **Memory:** 87.6 MB
 
 ---
 
