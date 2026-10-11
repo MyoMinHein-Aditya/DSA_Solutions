@@ -1,6 +1,6 @@
 # 📝 229. Majority Element II (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/majority-element-ii)
+🔗 [Problem Link](https://leetcode.com/problems/majority-element-ii/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Array, Hash Table, Sorting, Counting, Boyer–Moore Majority Vote Algorithm
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 2 ms
+- **Memory:** 52.4 MB
 
 ---
 
