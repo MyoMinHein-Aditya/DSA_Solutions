@@ -1,6 +1,6 @@
 # 📝 274. H-Index (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/h-index)
+🔗 [Problem Link](https://leetcode.com/problems/h-index/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
