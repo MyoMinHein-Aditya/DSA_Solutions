@@ -1,6 +1,6 @@
 # 📝 435. Non-overlapping Intervals (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/non-overlapping-intervals/)
+🔗 [Problem Link](https://leetcode.com/problems/non-overlapping-intervals/solutions/?envType=problem-list-v2&envId=sorting)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,7 +8,7 @@
 Array, Dynamic Programming, Greedy, Sorting
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
