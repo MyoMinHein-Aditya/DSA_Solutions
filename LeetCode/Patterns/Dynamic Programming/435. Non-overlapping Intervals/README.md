@@ -1,6 +1,6 @@
 # 📝 435. Non-overlapping Intervals (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/non-overlapping-intervals/solutions/?envType=problem-list-v2&envId=sorting)
+🔗 [Problem Link](https://leetcode.com/problems/non-overlapping-intervals/solutions/3785409/beats-100-c-java-python-beginner-friendl-7w7i/?envType=problem-list-v2&envId=sorting)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
