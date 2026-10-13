@@ -1,6 +1,6 @@
 # 📝 406. Queue Reconstruction by Height (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/queue-reconstruction-by-height/?envType=problem-list-v2&envId=sorting)
+🔗 [Problem Link](https://leetcode.com/problems/queue-reconstruction-by-height/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
