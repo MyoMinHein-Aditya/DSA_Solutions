@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 10 / 238 (4.2%)
+- **Completed:** 11 / 238 (4.6%)
 
 ---
 
@@ -195,7 +195,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Reverse Vowels of a String
 - [ ] Longest Substring Without Repeating Characters
 - [ ] Jewels and Stones
-- [ ] Find the Difference
+- [x] [Find the Difference](./Java/Easy/389. Find the Difference/)
 - [ ] Ransom Note
 - [ ] Check Two String Arrays Are Equivalent
 - [ ] Delete Capital Letters Check
