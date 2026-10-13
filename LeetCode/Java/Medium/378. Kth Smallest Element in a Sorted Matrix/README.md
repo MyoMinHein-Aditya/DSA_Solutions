@@ -1,6 +1,6 @@
 # 📝 378. Kth Smallest Element in a Sorted Matrix (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix)
+🔗 [Problem Link](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Array, Binary Search, Sorting, Heap (Priority Queue), Matrix
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 51.9 MB
 
 ---
 
