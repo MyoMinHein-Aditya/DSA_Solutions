@@ -1,6 +1,6 @@
 # 📝 455. Assign Cookies (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/assign-cookies/?envType=problem-list-v2&envId=sorting)
+🔗 [Problem Link](https://leetcode.com/problems/assign-cookies/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Array, Two Pointers, Greedy, Sorting, Quicksort
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 151 ms
+- **Memory:** 51.1 MB
 
 ---
 
