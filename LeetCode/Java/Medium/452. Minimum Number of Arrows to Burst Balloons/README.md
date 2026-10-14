@@ -1,6 +1,6 @@
 # 📝 452. Minimum Number of Arrows to Burst Balloons (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)
+🔗 [Problem Link](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Array, Greedy, Sorting
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 52 ms
+- **Memory:** 95 MB
 
 ---
 
