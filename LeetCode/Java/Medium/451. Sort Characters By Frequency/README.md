@@ -1,6 +1,6 @@
 # 📝 451. Sort Characters By Frequency (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/sort-characters-by-frequency/?envType=problem-list-v2&envId=sorting)
+🔗 [Problem Link](https://leetcode.com/problems/sort-characters-by-frequency/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 13 ms
+- **Memory:** 46.3 MB
 
 ---
 
