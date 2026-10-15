@@ -1,6 +1,6 @@
 # 📝 475. Heaters (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/heaters/?envType=problem-list-v2&envId=sorting)
+🔗 [Problem Link](https://leetcode.com/problems/heaters/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Array, Two Pointers, Binary Search, Sorting
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 18 ms
+- **Memory:** 47.2 MB
 
 ---
 
