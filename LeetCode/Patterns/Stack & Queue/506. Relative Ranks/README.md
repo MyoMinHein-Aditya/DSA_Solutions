@@ -1,6 +1,6 @@
 # 📝 506. Relative Ranks (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/relative-ranks/?envType=problem-list-v2&envId=sorting)
+🔗 [Problem Link](https://leetcode.com/problems/relative-ranks/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Array, Sorting, Heap (Priority Queue)
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 10 ms
+- **Memory:** 47.1 MB
 
 ---
 
