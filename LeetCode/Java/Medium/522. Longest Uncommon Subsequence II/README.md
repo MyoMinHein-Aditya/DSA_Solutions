@@ -1,6 +1,6 @@
 # 📝 522. Longest Uncommon Subsequence II (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/longest-uncommon-subsequence-ii)
+🔗 [Problem Link](https://leetcode.com/problems/longest-uncommon-subsequence-ii/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Array, Hash Table, Two Pointers, String, Sorting
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 73 ms
+- **Memory:** 42.6 MB
 
 ---
 
