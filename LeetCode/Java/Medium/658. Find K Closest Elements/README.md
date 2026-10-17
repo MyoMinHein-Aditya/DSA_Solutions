@@ -1,6 +1,6 @@
 # 📝 658. Find K Closest Elements (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/find-k-closest-elements/?envType=problem-list-v2&envId=sorting)
+🔗 [Problem Link](https://leetcode.com/problems/find-k-closest-elements/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Array, Two Pointers, Binary Search, Sliding Window, Sorting, Heap (Priority Queue)
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 4 ms
+- **Memory:** 47.4 MB
 
 ---
 
