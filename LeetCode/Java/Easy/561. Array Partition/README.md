@@ -1,6 +1,6 @@
 # 📝 561. Array Partition (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/array-partition)
+🔗 [Problem Link](https://leetcode.com/problems/array-partition/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
