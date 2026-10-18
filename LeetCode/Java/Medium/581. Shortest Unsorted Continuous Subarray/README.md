@@ -1,6 +1,6 @@
 # 📝 581. Shortest Unsorted Continuous Subarray (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/shortest-unsorted-continuous-subarray)
+🔗 [Problem Link](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
