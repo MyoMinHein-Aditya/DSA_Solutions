@@ -1,6 +1,6 @@
 # 📝 532. K-diff Pairs in an Array (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/k-diff-pairs-in-an-array/?envType=problem-list-v2&envId=sorting)
+🔗 [Problem Link](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,7 +8,7 @@
 Array, Hash Table, Two Pointers, Binary Search, Sorting
 
 ### 🚀 Performance
-- **Runtime:** Successfully Evaluated
+- **Runtime:** N/A
 - **Memory:** N/A
 
 ---
