@@ -1,6 +1,6 @@
 # 📝 611. Valid Triangle Number (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/valid-triangle-number/?envType=problem-list-v2&envId=sorting)
+🔗 [Problem Link](https://leetcode.com/problems/valid-triangle-number/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
