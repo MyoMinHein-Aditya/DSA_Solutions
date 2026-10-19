@@ -1,0 +1,16 @@
+class Solution {
+    public String longestWord(String[] words) {
+        Arrays.sort(words);
+        Set<String> builtWords = new HashSet<>();
+        String longest = "";
+        for (String word : words) {
+            if (word.length() == 1 || builtWords.contains(word.substring(0, word.length() - 1))) {
+                builtWords.add(word);
+                if (word.length() > longest.length()) {
+                    longest = word;
+                }
+            }
+        }
+        return longest;
+    }
+}
