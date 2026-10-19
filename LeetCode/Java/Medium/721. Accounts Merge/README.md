@@ -1,6 +1,6 @@
 # 📝 721. Accounts Merge (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/accounts-merge/?envType=problem-list-v2&envId=sorting)
+🔗 [Problem Link](https://leetcode.com/problems/accounts-merge/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union-Find, Sorting
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 30 ms
+- **Memory:** 49.4 MB
 
 ---
 
