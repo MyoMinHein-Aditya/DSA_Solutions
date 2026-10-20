@@ -1,6 +1,6 @@
 # 📝 630. Course Schedule III (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/course-schedule-iii/?envType=problem-list-v2&envId=sorting)
+🔗 [Problem Link](https://leetcode.com/problems/course-schedule-iii/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Array, Greedy, Sorting, Heap (Priority Queue)
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 775 ms
+- **Memory:** 57.9 MB
 
 ---
 
