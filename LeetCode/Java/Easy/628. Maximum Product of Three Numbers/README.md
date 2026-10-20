@@ -1,6 +1,6 @@
 # 📝 628. Maximum Product of Three Numbers (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/maximum-product-of-three-numbers/?envType=problem-list-v2&envId=sorting)
+🔗 [Problem Link](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,7 +8,7 @@
 Array, Math, Sorting
 
 ### 🚀 Performance
-- **Runtime:** Successfully Evaluated
+- **Runtime:** N/A
 - **Memory:** N/A
 
 ---
