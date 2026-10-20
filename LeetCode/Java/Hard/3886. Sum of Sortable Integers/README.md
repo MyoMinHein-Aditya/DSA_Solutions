@@ -1,6 +1,6 @@
 # 📝 3886. Sum of Sortable Integers (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/sum-of-sortable-integers/?envType=daily-question&envId=2026-10-20)
+🔗 [Problem Link](https://leetcode.com/problems/sum-of-sortable-integers/solutions/8580193/optimal-solution-onn-divisors-greedy-val-x06l/?envType=daily-question&envId=2026-10-20)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
