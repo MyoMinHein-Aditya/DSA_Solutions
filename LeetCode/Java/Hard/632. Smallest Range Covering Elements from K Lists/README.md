@@ -1,6 +1,6 @@
 # 📝 632. Smallest Range Covering Elements from K Lists (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/?envType=problem-list-v2&envId=sorting)
+🔗 [Problem Link](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Array, Hash Table, Greedy, Sliding Window, Sorting, Heap (Priority Queue)
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 182 ms
+- **Memory:** 119.6 MB
 
 ---
 
