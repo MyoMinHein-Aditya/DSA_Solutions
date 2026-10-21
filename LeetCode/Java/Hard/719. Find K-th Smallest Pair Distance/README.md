@@ -1,6 +1,6 @@
 # 📝 719. Find K-th Smallest Pair Distance (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/find-k-th-smallest-pair-distance/?envType=problem-list-v2&envId=sorting)
+🔗 [Problem Link](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Array, Two Pointers, Binary Search, Sorting
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 11 ms
+- **Memory:** 46.7 MB
 
 ---
 
