@@ -1,6 +1,6 @@
 # 📝 761. Special Binary String (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/special-binary-string/?envType=problem-list-v2&envId=sorting)
+🔗 [Problem Link](https://leetcode.com/problems/special-binary-string/solutions/7593016/recursive-divide-conquer-sort-balanced-c-drb6/?envType=problem-list-v2&envId=sorting)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
