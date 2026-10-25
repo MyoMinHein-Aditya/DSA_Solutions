@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 10 / 150 (6.7%)
+- **Completed:** 11 / 150 (7.3%)
 
 ---
 
@@ -41,7 +41,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 - [ ] Evaluate Reverse Polish Notation
 - [ ] Generate Parentheses
 - [ ] Daily Temperatures
-- [ ] Car Fleet
+- [x] [Car Fleet](./Java/Medium/853. Car Fleet/)
 - [ ] Largest Rectangle in Histogram
 
 ### 📂 Binary Search
