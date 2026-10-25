@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 9 / 150 (6.0%)
+- **Completed:** 10 / 150 (6.7%)
 
 ---
 
@@ -155,7 +155,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 - [ ] Jump Game
 - [ ] Jump Game II
 - [ ] Gas Station
-- [ ] Hand of Straights
+- [x] [Hand of Straights](./Java/Medium/876. Hand of Straights/)
 - [ ] Merge Triplets to Form Target Triplet
 - [ ] Partition Labels
 - [ ] Valid Parenthesis String
