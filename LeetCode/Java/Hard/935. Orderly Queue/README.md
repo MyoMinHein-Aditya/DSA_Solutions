@@ -8,8 +8,8 @@
 Math, String, Sorting, Lexicographically Minimal String Rotation
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 4 ms
+- **Memory:** 45.6 MB
 
 ---
 
